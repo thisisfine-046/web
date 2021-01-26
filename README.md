@@ -1,7 +1,8 @@
 # web
 cloud project
 
-run login/index
+run web/views/login/index
+
 admin
 123
 to login as admin
